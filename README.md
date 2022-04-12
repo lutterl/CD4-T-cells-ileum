@@ -9,9 +9,9 @@ unique molecular identifier (UMI, 6bp long) were counted as a single read.
 
 Files
 
-CD4 ileum_raw counts.txt - raw count data of all sequenced samples
+CD4 ileum_raw counts.txt = raw count data of all sequenced samples
 
-Legend CD4 ileum - sample description
+Legend CD4 ileum = sample description
 
 
 
