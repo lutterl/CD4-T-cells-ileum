@@ -25,6 +25,7 @@ Sequencing reads were mapped against the reference human genome (GRCh38) with BW
 Files
 
 Barcode counts = raw mapped counts
+
 Sample description is in the title of every tsv file. 
 *For patient 4_inflamed and non-inflamed epithelium.Barcodecounts cells 278-288, 296-360
 and 369-384 contain non-inflamed intraepithelial CD4 T cells from patient 4. 
